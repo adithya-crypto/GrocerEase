@@ -113,10 +113,6 @@ This repository contains database credentials that should be secured before depl
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - FPDF library for PDF generation
